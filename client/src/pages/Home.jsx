@@ -1,0 +1,38 @@
+import React from 'react';
+
+import Navbar from "../components/portfolio/Navbar";
+import HeroSection from '../components/portfolio/HeroSection';
+import AboutSection from '../components/portfolio/AboutSection';
+import ProfileSection from '../components/portfolio/ProfileSection';
+import SkillsSection from '../components/portfolio/SkillsSection';
+import ProjectsSection from '../components/portfolio/ProjectsSection';
+import ContactSection from '../components/portfolio/ContactSection';
+import Footer from '../components/portfolio/Footer';
+import LiveChat from '../components/portfolio/LiveChat';
+
+export default function Home() {
+
+    return (
+        <div className="min-h-screen bg-background font-inter">
+
+            <Navbar />
+
+            <HeroSection />
+
+            <AboutSection />
+
+            <ProfileSection />
+
+            <SkillsSection />
+
+            <ProjectsSection />
+
+            <ContactSection />
+
+            <Footer />
+
+            <LiveChat />
+
+        </div>
+    );
+}
