@@ -10,7 +10,7 @@ const stats = [
     { icon: Palette, value: 'Full Stack', label: 'Développement logiciel' },
 ];
 
-export default function AboutSection() {
+function AboutSection() {
     return (
         <section id="about" className="py-32 relative">
             <div className="max-w-7xl mx-auto px-6">
@@ -28,7 +28,9 @@ export default function AboutSection() {
                         <h2 className="font-playfair text-4xl md:text-5xl font-bold mt-4 leading-tight">
                             Passionnée par le
                             <br />
-                            <span className="text-primary">design & le code</span>
+                            <span className="text-primary">
+                                design & le code
+                            </span>
                         </h2>
 
                         <div className="mt-8 space-y-5 text-muted-foreground font-inter leading-relaxed">
@@ -88,4 +90,6 @@ export default function AboutSection() {
         </section>
     );
 }
+
+export default AboutSection;
 ```
