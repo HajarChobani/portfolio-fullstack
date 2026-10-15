@@ -21,7 +21,7 @@ export default function ContactSection() {
                 <div className="text-center mb-12">
                     <h2 className="text-4xl font-bold">Contact</h2>
                     <p className="text-muted-foreground mt-2">
-                        Vous pouvez me contacter pour un stage ou une collaboration.
+                        Vous pouvez me contacter pour toute opportunité professionnelle en développement logiciel ou full-stack, ou pour discuter d’une collaboration.
                     </p>
                 </div>
 
