@@ -53,15 +53,14 @@ export default function HeroSection() {
                     animate={{ opacity: 1, y: 0 }}
                     className="mt-8"
                 >
-                    
-<a
-    href="/images/CV_Hajar_Chobani.pdf"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="inline-block bg-primary text-white px-6 py-3 rounded-xl font-medium hover:scale-105 transition"
->
-    Télécharger mon CV
-</a>
+                    <a
+                        href="/CV.pdf"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="inline-block bg-primary text-white px-6 py-3 rounded-xl font-medium hover:scale-105 transition"
+                    >
+                        Télécharger mon CV
+                    </a>
                 </motion.div>
 
                 {/* Social links dynamiques */}
