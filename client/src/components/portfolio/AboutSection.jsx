@@ -28,19 +28,19 @@ export default function AboutSection() {
                         </h2>
                         <div className="mt-8 space-y-5 text-muted-foreground font-inter leading-relaxed">
                             <p>
-                                Étudiante en Techniques de l’informatique au Collège LaSalle,
-                                je suis passionnée par le développement web, les applications
-                                modernes et les nouvelles technologies. J’aime créer des projets
-                                interactifs qui combinent design, performance et expérience utilisateur.
-                            </p>
+    Diplômée en Techniques de l’informatique au Collège LaSalle,
+    je suis passionnée par le développement web, les applications
+    modernes et les nouvelles technologies. J’aime concevoir des solutions
+    interactives qui allient design, performance et expérience utilisateur.
+</p>
 
-                            <p>
-                                J’ai réalisé plusieurs projets en React, Java, Python, SQL et Swift,
-                                incluant des applications web, mobiles et des systèmes de gestion.
-                                Je suis actuellement à la recherche d’un stage en développement
-                                full-stack afin de développer davantage mes compétences et acquérir
-                                une expérience professionnelle concrète.
-                            </p>
+<p>
+    J’ai réalisé plusieurs projets en React, Java, Python, SQL et Swift,
+    notamment des applications web et mobiles ainsi que des systèmes de gestion.
+    Je recherche actuellement un poste junior en développement logiciel
+    ou full-stack afin de mettre mes compétences en pratique, contribuer
+    à des projets concrets et continuer à évoluer professionnellement.
+</p>
                         </div>
                         <a
                             href="#contact"
