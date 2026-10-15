@@ -9,7 +9,7 @@ const profile = {
     links: {
         github: "https://github.com/HajarChobani",
         linkedin: "https://www.linkedin.com/in/hajar-chobani",
-        cv: "/CV.pdf",
+        cv: "/images/CV_Hajar_Chobani.pdf",
     },
 };
 
